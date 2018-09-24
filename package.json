@@ -1,0 +1,27 @@
+{
+  "name": "passport-bing-ads",
+  "version": "1.0.0",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "description": "Passport strategy for authenticating with Bing Ads using the OAuth 2.0 API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blendo-app/passport-bing-ads.git"
+  },
+  "keywords": [
+    "Bing Ads",
+    "Passport",
+    "NodeJs"
+  ],
+  "author": "Fotis Xenikoudakis <fxenik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blendo-app/passport-bing-ads/issues"
+  },
+  "homepage": "https://github.com/blendo-app/passport-bing-ads#readme"
+}
